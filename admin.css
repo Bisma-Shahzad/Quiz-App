@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    margin: 30px;
+    /* background: #3853bf; */
+}
+
+input {
+    width: 500px;
+    padding: 7px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+label {
+    margin-top: 20px;
+    margin-right: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.but {
+    width: 100px;
+    margin-top: 20px;
+}
+
+.sub {
+    width: 100px;
+    margin-right: 50px;
+}
